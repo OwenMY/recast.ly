@@ -18,8 +18,8 @@
     "react-dom": "^16.14.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.12.1",
-    "@babel/core": "^7.12.3",
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
     "@babel/preset-react": "^7.12.1",
     "chai": "^4.2.0",
     "live-server": "^1.2.1",
