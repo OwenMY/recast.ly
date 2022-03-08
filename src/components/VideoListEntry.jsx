@@ -1,23 +1,3 @@
-// class VideoListEntry extends React.Component {
-//   constructor(props) {
-//     super(props); //React.Component.call(this, GroceryListItem)  This adds
-//   }
-
-//   render() {
-//     return (
-//       <div className="video-list-entry media">
-//       <div className="media-left media-middle">
-//         <img className="media-object" src={this.props.} alt="" />
-//       </div>
-//       <div className="media-body">
-//         <div className="video-list-entry-title">Video Title</div>
-//         <div className="video-list-entry-detail">Video Description</div>
-//       </div>
-//     </div>
-//     );
-//   }
-// }
-
 var VideoListEntry = (props) => (
   <div className="video-list-entry media">
     <div className="media-left media-middle">
