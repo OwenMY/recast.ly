@@ -5,7 +5,8 @@ $.ajaxPrefilter(function (settings, _, jqXHR) {
 });
 
 var searchYouTube = (query, callback) => {
-  // TODO
+  console.log(query);
+  console.log(callback);
 };
 
 export default searchYouTube;
